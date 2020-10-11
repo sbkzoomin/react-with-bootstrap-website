@@ -17,7 +17,6 @@ export default function App() {
     <CountryCards></CountryCards>
     <InfoBox></InfoBox>
     <Contact></Contact>
-    <div class="m-3"></div>
    </React.Fragment>
   );
 }
