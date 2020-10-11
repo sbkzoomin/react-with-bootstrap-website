@@ -1,0 +1,10 @@
+.landingPage {
+  background: white url('https://cdn.cheapism.com/images/102318_best_chinese_food_near_me_.2e16d0ba.fill-1440x605.jpg');
+  background-size: cover;
+  height: 100vh;
+  color: pink;
+}
+.wrapper {
+  background-color: rgba(0,0,0,.5);
+  height: 100%;
+}

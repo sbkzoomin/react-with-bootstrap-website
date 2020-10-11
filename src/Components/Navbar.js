@@ -7,7 +7,7 @@ class Navbar extends React.Component {
       <React.Fragment>
         <nav className="navbar navbar-dark bg-dark navbar-expand-sm">
           <div className="container">
-              <a href="#" className="navbar-brand">Venu Fast Food Center</a>
+              <a href="#" className="navbar-brand">Hotel Website</a>
           </div>
         </nav>
       </React.Fragment>
