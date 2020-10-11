@@ -6,6 +6,7 @@ import Navbar from "./Components/Navbar";
 import LandingPage from "./Components/LandingPage";
 import CountryCards from "./Components/CountryCards";
 import InfoBox from "./Components/InfoBox";
+import Contact from "./Components/Contact";
 
 
 export default function App() {
@@ -15,6 +16,8 @@ export default function App() {
     <LandingPage></LandingPage>
     <CountryCards></CountryCards>
     <InfoBox></InfoBox>
+    <Contact></Contact>
+    <div class="m-3"></div>
    </React.Fragment>
   );
 }
